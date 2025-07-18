@@ -1,0 +1,2 @@
+# cosma.nvim
+cosma 🤝 neovim
